@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+    background-image: url(NashPoint.jpg);
+
+    color: black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 10px;
+    font-weight: bold;
+}
+div{
+    background-color: blue;
+    margin: auto;
+    padding: auto;
+}
+#hellow{
+    background-color: blueviolet;
+}
+span{
+    background-color: brown;
+    color: blueviolet;
+    border: 5px solid black;
+    border-radius: 50px;
+
+}
+
+#hellow:hover{
+    background-color: brown;
+    color: blueviolet;
+    border: 5px solid black;
+    border-radius: 50px;
+    opacity: 0.5;
+}
